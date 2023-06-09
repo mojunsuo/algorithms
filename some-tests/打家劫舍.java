@@ -1,5 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
+        //hello there
         int length = nums.length;
         if (length == 1) {
             return nums[0];
